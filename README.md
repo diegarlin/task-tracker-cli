@@ -2,6 +2,8 @@
 
 A simple command-line task manager built with Python. Manage your tasks by adding, deleting, updating, and changing their status. Tasks are stored in a JSON file (`lista.json`).
 
+Project based on https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - **Add** a new task
